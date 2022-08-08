@@ -13,7 +13,6 @@
 ```
     npm init 
     npm install 
-    npm i mongoose 
 
 ```
 
